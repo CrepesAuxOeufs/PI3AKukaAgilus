@@ -1,0 +1,24 @@
+//Algo Programme principal
+
+
+init();
+
+while(true){
+	if(mode_deplacement_relatif)
+	{
+		// faire des actions différentes en fonction de si on est en mode rotation ou en mode translation
+		lire_sourie();
+		normliser();
+		déplacer_robot();
+		
+	}
+	else
+	{
+		lire_json();
+		foreach(trajectoire)
+			deplacer_robot()
+	}
+	
+	
+	
+}

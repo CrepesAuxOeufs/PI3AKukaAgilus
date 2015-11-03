@@ -1,0 +1,9 @@
+c:\users\imerir\documents\visual studio 2015\Projects\ConsoleApplicationImerir\ConsoleApplicationImerir\bin\Debug\ConsoleApplicationImerir.exe.config
+c:\users\imerir\documents\visual studio 2015\Projects\ConsoleApplicationImerir\ConsoleApplicationImerir\bin\Debug\ConsoleApplicationImerir.exe
+c:\users\imerir\documents\visual studio 2015\Projects\ConsoleApplicationImerir\ConsoleApplicationImerir\bin\Debug\ConsoleApplicationImerir.pdb
+c:\users\imerir\documents\visual studio 2015\Projects\ConsoleApplicationImerir\ConsoleApplicationImerir\obj\Debug\ConsoleApplicationImerir.csprojResolveAssemblyReference.cache
+c:\users\imerir\documents\visual studio 2015\Projects\ConsoleApplicationImerir\ConsoleApplicationImerir\obj\Debug\ConsoleApplicationImerir.exe
+c:\users\imerir\documents\visual studio 2015\Projects\ConsoleApplicationImerir\ConsoleApplicationImerir\obj\Debug\ConsoleApplicationImerir.pdb
+C:\Users\imerir\Documents\GitHub\PI3AKukaAgilus\Programme Principal\ConsoleApplicationImerir\bin\Debug\ConsoleApplicationImerir.exe.config
+C:\Users\imerir\Documents\GitHub\PI3AKukaAgilus\Programme Principal\ConsoleApplicationImerir\obj\Debug\ConsoleApplicationImerir.exe
+C:\Users\imerir\Documents\GitHub\PI3AKukaAgilus\Programme Principal\ConsoleApplicationImerir\obj\Debug\ConsoleApplicationImerir.pdb
